@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "05de776517823abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1cbad60abc5395e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bb8991baa5e7fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Web Requests/1.1.1 HyperText Transfer Protocol (HTTP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1.1 HyperText Transfer Protocol (HTTP)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3eab66b67be92a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "34be53e7a68cfee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0122fd840f4117d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7a14e190e0f8bd71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "eb9e45df0ff7b309",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70453a3357c2b938",
+    "type": "split",
+    "children": [
+      {
+        "id": "b56fbedad783de35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29dee19e36d92ba1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.1 Web Requests/1.1.1 HyperText Transfer Protocol (HTTP).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 1.1.1 HyperText Transfer Protocol (HTTP)"
+            }
+          },
+          {
+            "id": "66d7c74566ce59c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.1 Web Requests/1.1.1 HyperText Transfer Protocol (HTTP).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 1.1.1 HyperText Transfer Protocol (HTTP)"
+            }
+          },
+          {
+            "id": "910da10da34a02a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6505ff99e519cd3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.1 Web Requests/1.1.1 HyperText Transfer Protocol (HTTP).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 1.1.1 HyperText Transfer Protocol (HTTP)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "d0122fd840f4117d",
+  "lastOpenFiles": [
+    "IMG",
+    "IMG/URL.png",
+    "1.1 Web Requests/1.1.1 HyperText Transfer Protocol (HTTP).md",
+    "README.md",
+    "1.1 Web Requests",
+    "Bienvenido.md"
+  ]
+}
