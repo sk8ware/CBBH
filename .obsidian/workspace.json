@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 Web Requests/1.1.7 POST.md",
+                "file": "1.1 Web Requests/1.1.1 HyperText Transfer Protocol (HTTP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.7 POST"
+              "title": "1.1.1 HyperText Transfer Protocol (HTTP)"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "6bb8991baa5e7fb0",
   "lastOpenFiles": [
-    "1.1 Web Requests/1.1.6 GET.md",
-    "1.1 Web Requests/1.1.7 POST.md",
+    "1.1 Web Requests/1.1.2 Hypertext Transfer Protocol Secure (HTTPS).md",
     "1.1 Web Requests/1.1.5 HTTP Methods and Codes.md",
+    "1.1 Web Requests/1.1.7 POST.md",
+    "1.1 Web Requests/1.1.6 GET.md",
     "1.1 Web Requests/1.1.4 HTTP Headers.md",
     "1.1 Web Requests/1.1.3 HTTP Requests & Responses.md",
     "README.md",
-    "1.1 Web Requests/1.1.2 Hypertext Transfer Protocol Secure (HTTPS).md",
     "1.1 Web Requests/1.1.1 HyperText Transfer Protocol (HTTP).md",
     "IMG/flujoHTTP.png",
     "IMG",
