@@ -169,8 +169,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6bb8991baa5e7fb0",
+  "active": "d0122fd840f4117d",
   "lastOpenFiles": [
+    "1.6 JavaScript Deobfuscation",
+    "1.5 Attacking Web Applications with ffuf",
+    "1.4 Information Gathering - Web Edition",
+    "1.3 Using Web Proxies",
     "1.2  Introduction to Web Applications/1.2.16 Public Vulnerabilities.md",
     "1.2  Introduction to Web Applications/1.2.17 Próximos pasos.md",
     "1.2  Introduction to Web Applications/1.2.15 Common Web Vulnerabilities.md",
@@ -197,7 +201,6 @@
     "1.1 Web Requests/1.1.5 HTTP Methods and Codes.md",
     "1.1 Web Requests/1.1.7 POST.md",
     "1.1 Web Requests/1.1.6 GET.md",
-    "1.1 Web Requests/1.1.4 HTTP Headers.md",
     "IMG/flujoHTTP.png",
     "IMG",
     "IMG/URL.png",
