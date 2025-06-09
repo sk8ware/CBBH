@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.2  Introduction to Web Applications/1.2.15 Common Web Vulnerabilities.md",
+                "file": "1.2  Introduction to Web Applications/1.2.16 Public Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.15 Common Web Vulnerabilities"
+              "title": "1.2.16 Public Vulnerabilities"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "6bb8991baa5e7fb0",
   "lastOpenFiles": [
-    "1.2  Introduction to Web Applications/1.2.14 Development Frameworks & APIs.md",
     "1.2  Introduction to Web Applications/1.2.15 Common Web Vulnerabilities.md",
+    "1.2  Introduction to Web Applications/1.2.16 Public Vulnerabilities.md",
+    "1.2  Introduction to Web Applications/1.2.14 Development Frameworks & APIs.md",
     "1.2  Introduction to Web Applications/1.2.13 Databases.md",
     "README.md",
     "Sin título.md",
@@ -200,7 +201,6 @@
     "IMG/flujoHTTP.png",
     "IMG",
     "IMG/URL.png",
-    "1.1 Web Requests",
-    "Bienvenido.md"
+    "1.1 Web Requests"
   ]
 }
