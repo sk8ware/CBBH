@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.5 Attacking Web Applications with ffuf/1.5.5 Recursive Fuzzing.md",
+                "file": "1.5 Attacking Web Applications with ffuf/1.5.8 Vhost Fuzzing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5.5 Recursive Fuzzing"
+              "title": "1.5.8 Vhost Fuzzing"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "6bb8991baa5e7fb0",
   "lastOpenFiles": [
-    "1.5 Attacking Web Applications with ffuf/1.5.4 Page Fuzzing.md",
+    "1.5 Attacking Web Applications with ffuf/1.5.7 Sub-domain Fuzzing.md",
+    "1.5 Attacking Web Applications with ffuf/1.5.8 Vhost Fuzzing.md",
+    "1.5 Attacking Web Applications with ffuf/1.5.6 DNS Records.md",
     "1.5 Attacking Web Applications with ffuf/1.5.5 Recursive Fuzzing.md",
+    "Domain FuzzingDNS Records  Sub-domain FuzzingVhost Fuzzing  Filtering Results",
+    "1.5 Attacking Web Applications with ffuf/1.5.4 Page Fuzzing.md",
     "1.5 Attacking Web Applications with ffuf/1.5.3 Directory Fuzzing.md",
     "1.5 Attacking Web Applications with ffuf/1.5.2 Web Fuzzing.md",
     "1.5 Attacking Web Applications with ffuf/1.5.1 Introduction.md",
@@ -198,10 +202,7 @@
     "1.2  Introduction to Web Applications/1.2.4 HTML.md",
     "1.2  Introduction to Web Applications/1.2.3 Front End vs. Back End.md",
     "1.2  Introduction to Web Applications/1.2.2Web Application Layout.md",
-    "1.2  Introduction to Web Applications/1.2.1 Introduction.md",
-    "1.1 Web Requests/1.1.8 CRUD API.md",
     "1.2  Introduction to Web Applications",
-    "1.1 Web Requests/1.1.1 HyperText Transfer Protocol (HTTP).md",
     "IMG/flujoHTTP.png",
     "IMG",
     "IMG/URL.png",
