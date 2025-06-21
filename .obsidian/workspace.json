@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.5 Attacking Web Applications with ffuf/1.5.8 Vhost Fuzzing.md",
+                "file": "1.5 Attacking Web Applications with ffuf/1.5.9 Filtering Results.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5.8 Vhost Fuzzing"
+              "title": "1.5.9 Filtering Results"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "6bb8991baa5e7fb0",
   "lastOpenFiles": [
-    "1.5 Attacking Web Applications with ffuf/1.5.7 Sub-domain Fuzzing.md",
     "1.5 Attacking Web Applications with ffuf/1.5.8 Vhost Fuzzing.md",
+    "1.5 Attacking Web Applications with ffuf/1.5.9 Filtering Results.md",
+    "1.5 Attacking Web Applications with ffuf/1.5.7 Sub-domain Fuzzing.md",
     "1.5 Attacking Web Applications with ffuf/1.5.6 DNS Records.md",
     "1.5 Attacking Web Applications with ffuf/1.5.5 Recursive Fuzzing.md",
     "Domain FuzzingDNS Records  Sub-domain FuzzingVhost Fuzzing  Filtering Results",
@@ -201,7 +202,6 @@
     "1.2  Introduction to Web Applications/1.2.5 Cascading Style Sheets (CSS).md",
     "1.2  Introduction to Web Applications/1.2.4 HTML.md",
     "1.2  Introduction to Web Applications/1.2.3 Front End vs. Back End.md",
-    "1.2  Introduction to Web Applications/1.2.2Web Application Layout.md",
     "1.2  Introduction to Web Applications",
     "IMG/flujoHTTP.png",
     "IMG",
